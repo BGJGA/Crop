@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG suite]" guice-stage="DEVELOPMENT" verbose="3">
+  <test thread-count="5" name="test groups(failed)" verbose="3">
+    <classes>
+      <class name="Task1.Automationpractise.CartTest">
+        <methods>
+          <include name="screenshot"/>
+          <include name="cart02"/>
+          <include name="driverclose"/>
+          <include name="cart01"/>
+          <include name="driversetup"/>
+          <include name="cart03"/>
+          <include name="websitesetup"/>
+        </methods>
+      </class> <!-- Task1.Automationpractise.CartTest -->
+      <class name="Task1.Automationpractise.LoginTest1">
+        <methods>
+          <include name="logintest06"/>
+          <include name="driversetup"/>
+          <include name="screenshot"/>
+          <include name="websitesetup"/>
+          <include name="driverclose"/>
+          <include name="logintest01"/>
+          <include name="logintest02"/>
+          <include name="logintest03"/>
+          <include name="logintest04"/>
+          <include name="logintest05"/>
+        </methods>
+      </class> <!-- Task1.Automationpractise.LoginTest1 -->
+    </classes>
+  </test> <!-- test groups(failed) -->
+</suite> <!-- Failed suite [TestNG suite] -->

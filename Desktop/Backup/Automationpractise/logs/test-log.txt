@@ -1,0 +1,1132 @@
+2025-02-16 20:31:59 - Driver setup intialised
+2025-02-16 20:32:03 - Driver Closed
+2025-02-16 20:35:04 - Driver setup intialised
+2025-02-16 20:35:08 - Driver Closed
+2025-02-16 20:35:42 - Driver setup intialised
+2025-02-16 20:35:44 - Error occured due to unexpected conditionsInvalidSelectorException
+2025-02-16 20:35:45 - Driver Closed
+2025-02-16 20:40:59 - Driver setup intialised
+2025-02-16 20:41:01 - Error occured due to unexpected conditionsInvalidSelectorException
+2025-02-16 20:41:02 - Driver Closed
+2025-02-16 20:48:53 - Driver setup intialised
+2025-02-16 20:48:57 - Driver Closed
+2025-02-16 20:51:34 - Driver setup intialised
+2025-02-16 20:51:37 - Test passed for 'Login using for invalid mobile number'
+2025-02-16 20:51:37 - Driver Closed
+2025-02-16 20:53:06 - Driver setup intialised
+2025-02-16 20:53:08 - Test failed for 'Login with invalid mobile number'
+2025-02-16 20:53:08 - Error occured due to unexpected conditionsInvalidSelectorException
+2025-02-16 20:53:09 - Driver Closed
+2025-02-16 20:54:51 - Driver setup intialised
+2025-02-16 20:54:53 - Test failed for Login with invalid mobile number, InvalidSelectorException
+2025-02-16 20:54:54 - Driver Closed
+2025-02-16 21:04:35 - Automation for Poorvika Website started
+2025-02-16 21:04:37 - Driver setup intialised
+2025-02-16 21:04:41 - Test passed for login with valid email and valid password
+2025-02-16 21:04:42 - Driver Closed
+2025-02-16 21:07:37 - Automation for Poorvika Website started
+2025-02-16 21:07:39 - Driver setup intialised
+2025-02-16 21:07:42 - Driver Closed
+2025-02-16 21:09:28 - Automation for Poorvika Website started
+2025-02-16 21:09:29 - Driver setup intialised
+2025-02-16 21:09:32 - Driver Closed
+2025-02-16 21:12:10 - Automation for Poorvika Website started
+2025-02-16 21:12:12 - Driver setup intialised
+2025-02-16 21:12:14 - Error occurred: InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression ///div[@class="app-bar_text__HwUaf"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///div[@class="app-bar_text__HwUaf"]' is not a valid XPath expression.
+  (Session info: chrome=133.0.6943.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0171bbf377b0c4487f951c9f85f985ef, findElement {value=///div[@class="app-bar_text__HwUaf"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.98, chrome: {chromedriverVersion: 133.0.6943.98 (da53563ceb66..., userDataDir: C:\Users\BALAMU~1.GUR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60833}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60833/devtoo..., se:cdpVersion: 133.0.6943.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0171bbf377b0c4487f951c9f85f985ef
+2025-02-16 21:12:14 - Driver Closed
+2025-02-16 21:23:45 - Automation for Poorvika Website started
+2025-02-16 21:23:47 - Driver setup intialised
+2025-02-16 21:23:51 - Driver Closed
+2025-02-16 21:29:50 - Automation for Poorvika Website started
+2025-02-16 21:29:52 - Driver setup intialised
+2025-02-16 21:29:56 - Test passed for invalid email and valid password
+2025-02-16 21:29:57 - Driver Closed
+2025-02-16 21:30:24 - Automation for Poorvika Website started
+2025-02-16 21:30:26 - Driver setup intialised
+2025-02-16 21:30:29 - Test failed for invalid email and valid password
+2025-02-16 21:30:30 - Driver Closed
+2025-02-16 21:43:28 - Automation for Poorvika Website started
+2025-02-16 21:43:31 - Driver setup intialised
+2025-02-16 21:43:35 - Test failed for empty email and empty passwordInvalidSelectorException
+2025-02-16 21:43:36 - Driver Closed
+2025-02-16 21:44:21 - Automation for Poorvika Website started
+2025-02-16 21:44:23 - Driver setup intialised
+2025-02-16 21:44:27 - Driver Closed
+2025-02-16 21:45:16 - Automation for Poorvika Website started
+2025-02-16 21:45:18 - Driver setup intialised
+2025-02-16 21:45:21 - Test passed for empty email and empty password
+2025-02-16 21:45:22 - Driver Closed
+2025-02-16 21:50:34 - Automation for Poorvika Website started
+2025-02-16 21:50:36 - Driver setup intialised
+2025-02-16 21:50:38 - Test passed for invalid email format in OTP button
+2025-02-16 21:50:39 - Driver Closed
+2025-02-16 21:52:53 - Automation for Poorvika Website started
+2025-02-16 21:52:55 - Driver setup intialised
+2025-02-16 21:52:59 - Test passed for register with already registered email
+2025-02-16 21:53:00 - Driver Closed
+2025-02-16 22:03:30 - Automation for Poorvika Website started
+2025-02-16 22:03:32 - Driver setup intialised
+2025-02-16 22:03:36 - Test passed for register with invalid mobile number
+2025-02-16 22:03:37 - Driver Closed
+2025-02-16 22:03:37 - Test Completed
+2025-02-16 22:04:00 - Automation for Poorvika Website started
+2025-02-16 22:04:02 - Driver setup intialised
+2025-02-16 22:04:05 - Test passed for register with invalid email format
+2025-02-16 22:04:06 - Driver Closed
+2025-02-16 22:04:06 - Test Completed
+2025-02-16 22:04:27 - Automation for Poorvika Website started
+2025-02-16 22:04:29 - Driver setup intialised
+2025-02-16 22:04:38 - Test passed for search with price range filter
+2025-02-16 22:04:40 - Driver Closed
+2025-02-16 22:04:40 - Test Completed
+2025-02-16 22:04:57 - Automation for Poorvika Website started
+2025-02-16 22:04:59 - Driver setup intialised
+2025-02-16 22:05:13 - Test passed for search with color filter
+2025-02-16 22:05:15 - Driver Closed
+2025-02-16 22:05:15 - Test Completed
+2025-02-16 22:06:04 - Automation for Poorvika Website started
+2025-02-16 22:06:06 - Driver setup intialised
+2025-02-16 22:06:18 - Test passed with status filter
+2025-02-16 22:06:20 - Driver Closed
+2025-02-16 22:06:20 - Test Completed
+2025-02-16 22:06:50 - Automation for Poorvika Website started
+2025-02-16 22:06:52 - Driver setup intialised
+2025-02-16 22:07:01 - Test failed for add to cart button StaleElementReferenceException
+2025-02-16 22:07:01 - Driver Closed
+2025-02-16 22:07:01 - Test Completed
+2025-02-16 22:07:59 - Automation for Poorvika Website started
+2025-02-16 22:08:00 - Driver setup intialised
+2025-02-16 22:08:10 - Test passed for add to cart button 
+2025-02-16 22:08:11 - Driver Closed
+2025-02-16 22:08:11 - Test Completed
+2025-02-16 22:08:25 - Automation for Poorvika Website started
+2025-02-16 22:08:26 - Driver setup intialised
+2025-02-16 22:08:35 - Test passed for cart icon
+2025-02-16 22:08:36 - Driver Closed
+2025-02-16 22:08:36 - Test Completed
+2025-02-16 23:13:46 - Automation for Poorvika Website started
+2025-02-16 23:13:51 - Driver setup intialised
+2025-02-16 23:14:02 - Test passed for add to cart button 
+2025-02-16 23:14:04 - Driver Closed
+2025-02-16 23:14:04 - Test Completed
+2025-02-16 23:14:33 - Automation for Poorvika Website started
+2025-02-16 23:14:35 - Driver setup intialised
+2025-02-16 23:14:54 - Test failed for add to cart button TimeoutException
+2025-02-16 23:14:55 - Driver Closed
+2025-02-16 23:14:55 - Test Completed
+2025-02-16 23:15:26 - Automation for Poorvika Website started
+2025-02-16 23:15:28 - Driver setup intialised
+2025-02-16 23:15:46 - Test failed for add to cart button TimeoutException
+2025-02-16 23:15:47 - Driver Closed
+2025-02-16 23:15:47 - Test Completed
+2025-02-16 23:16:16 - Automation for Poorvika Website started
+2025-02-16 23:16:18 - Driver setup intialised
+2025-02-16 23:16:28 - Test passed for add to cart button 
+2025-02-16 23:16:29 - Driver Closed
+2025-02-16 23:16:29 - Test Completed
+2025-02-16 23:16:56 - Automation for Poorvika Website started
+2025-02-16 23:16:59 - Driver setup intialised
+2025-02-16 23:17:12 - Test passed for cart icon
+2025-02-16 23:17:13 - Driver Closed
+2025-02-16 23:17:13 - Test Completed
+2025-02-16 23:18:21 - Automation for Poorvika Website started
+2025-02-16 23:18:23 - Driver setup intialised
+2025-02-16 23:18:44 - Test failed for cart iconTimeoutException
+2025-02-16 23:18:45 - Driver Closed
+2025-02-16 23:18:45 - Test Completed
+2025-02-16 23:19:17 - Automation for Poorvika Website started
+2025-02-16 23:19:20 - Driver setup intialised
+2025-02-16 23:19:31 - Test passed for add to cart button 
+2025-02-16 23:19:31 - Driver Closed
+2025-02-16 23:19:31 - Test Completed
+2025-02-16 23:27:38 - Automation for Poorvika Website started
+2025-02-16 23:27:40 - Driver setup intialised
+2025-02-16 23:27:46 - Driver Closed
+2025-02-16 23:27:46 - Test Completed
+2025-02-16 23:28:30 - Automation for Poorvika Website started
+2025-02-16 23:28:33 - Driver setup intialised
+2025-02-16 23:28:38 - Test passed for cart icon with empty cart
+2025-02-16 23:28:40 - Driver Closed
+2025-02-16 23:28:40 - Test Completed
+2025-02-17 08:59:12 - Test failed for cart iconNullPointerException
+2025-02-17 08:59:12 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 08:59:12 - Test failed for cart iconNullPointerException
+2025-02-17 08:59:12 - Test failed for Login with valid email and valid password , NullPointerException
+2025-02-17 08:59:12 - Test failed for vaild email and invalid password
+2025-02-17 08:59:12 - Test failed for invalid email and valid passwordNullPointerException
+2025-02-17 08:59:12 - Test failed for invalid email and invalid passwordNullPointerException
+2025-02-17 08:59:12 - Test failed for empty email and empty passwordNullPointerException
+2025-02-17 08:59:12 - Test failed for invalid email format and valid passwordNullPointerException
+2025-02-17 08:59:12 - Test failed for search the productNullPointerException
+2025-02-17 08:59:12 - Test failed for search with price range filterNullPointerException
+2025-02-17 08:59:12 - Test failed for search with color filterNullPointerException
+2025-02-17 08:59:12 - Test failed for empty status filterNullPointerException
+2025-02-17 09:02:58 - Automation for Poorvika Website started
+2025-02-17 09:03:00 - Driver setup intialised
+2025-02-17 09:03:09 - Test passed for cart icon
+2025-02-17 09:03:10 - Driver Closed
+2025-02-17 09:03:10 - Test Completed
+2025-02-17 09:09:49 - Automation for Poorvika Website started
+2025-02-17 09:09:50 - Driver setup intialised
+2025-02-17 09:09:59 - Test passed for add to cart button 
+2025-02-17 09:09:59 - Driver Closed
+2025-02-17 09:09:59 - Test Completed
+2025-02-17 09:17:12 - Test failed for cart iconNullPointerException
+2025-02-17 09:17:12 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 09:17:12 - Test failed for cart iconNullPointerException
+2025-02-17 09:45:43 - Test failed for cart iconNullPointerException
+2025-02-17 09:45:43 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 09:45:43 - Test failed for cart iconNullPointerException
+2025-02-17 09:46:18 - Automation for Poorvika Website started
+2025-02-17 09:46:20 - Driver setup intialised
+2025-02-17 09:46:28 - Test passed for cart icon
+2025-02-17 09:46:29 - Driver Closed
+2025-02-17 09:46:29 - Test Completed
+2025-02-17 09:46:56 - Test failed for cart iconNullPointerException
+2025-02-17 09:46:56 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 09:46:56 - Test failed for cart iconNullPointerException
+2025-02-17 09:53:38 - Automation for Poorvika Website started
+2025-02-17 09:53:40 - Driver setup intialised
+2025-02-17 09:53:47 - Test passed for add to cart button 
+2025-02-17 09:53:55 - Test passed for cart icon
+2025-02-17 09:54:07 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 09:54:19 - Test failed for cart iconNoSuchElementException
+2025-02-17 09:54:30 - Test failed for Login with invalid mobile number, NoSuchElementException
+2025-02-17 09:54:42 - Test failed for Login with valid email and valid password , UnreachableBrowserException
+2025-02-17 10:00:08 - Test failed for cart iconNullPointerException
+2025-02-17 10:00:08 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 10:00:08 - Test failed for cart iconNullPointerException
+2025-02-17 10:07:01 - Test failed for cart iconNoSuchElementException
+2025-02-17 10:07:03 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 10:07:05 - Test failed for cart iconNoSuchElementException
+2025-02-17 10:13:25 - Test failed for cart iconNullPointerException
+2025-02-17 10:13:25 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 10:13:25 - Test failed for cart iconNullPointerException
+2025-02-17 10:27:16 - Test failed for cart iconNullPointerException
+2025-02-17 10:27:16 - Test failed for cart icon with empty cart NullPointerException
+2025-02-17 10:27:17 - Test failed for cart iconNullPointerException
+2025-02-17 11:10:21 - Driver setup intialised
+2025-02-17 11:10:29 - Test passed for cart icon
+2025-02-17 11:10:41 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 11:10:52 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:10:52 - Driver Closed
+2025-02-17 11:13:46 - Driver setup intialised
+2025-02-17 11:13:59 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 11:14:11 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:14:21 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:14:22 - Driver Closed
+2025-02-17 11:16:22 - Driver setup intialised
+2025-02-17 11:16:26 - Test passed for cart icon with empty cart
+2025-02-17 11:16:40 - Test failed for cart iconTimeoutException
+2025-02-17 11:16:51 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:16:52 - Driver Closed
+2025-02-17 11:17:56 - Automation for Poorvika Website started
+2025-02-17 11:17:58 - Driver setup intialised
+2025-02-17 11:18:06 - Test passed for cart icon
+2025-02-17 11:18:07 - Driver Closed
+2025-02-17 11:18:07 - Test Completed
+2025-02-17 11:18:33 - Driver setup intialised
+2025-02-17 11:18:37 - Test passed for cart icon with empty cart
+2025-02-17 11:18:42 - Test passed for cart icon
+2025-02-17 11:18:56 - Test failed for cart iconTimeoutException
+2025-02-17 11:18:57 - Driver Closed
+2025-02-17 11:23:42 - Automation for Poorvika Website started
+2025-02-17 11:23:44 - Driver setup intialised
+2025-02-17 11:24:06 - Test failed for cart iconTimeoutException
+2025-02-17 11:24:07 - Driver Closed
+2025-02-17 11:24:07 - Test Completed
+2025-02-17 11:25:48 - Automation for Poorvika Website started
+2025-02-17 11:25:51 - Driver setup intialised
+2025-02-17 11:26:09 - Test failed for cart iconTimeoutException
+2025-02-17 11:26:11 - Driver Closed
+2025-02-17 11:26:11 - Test Completed
+2025-02-17 11:26:18 - Automation for Poorvika Website started
+2025-02-17 11:26:21 - Driver setup intialised
+2025-02-17 11:26:40 - Test failed for cart iconTimeoutException
+2025-02-17 11:26:42 - Driver Closed
+2025-02-17 11:26:42 - Test Completed
+2025-02-17 11:26:52 - Automation for Poorvika Website started
+2025-02-17 11:26:54 - Driver setup intialised
+2025-02-17 11:27:10 - Test passed for cart icon
+2025-02-17 11:27:11 - Driver Closed
+2025-02-17 11:27:11 - Test Completed
+2025-02-17 11:29:04 - Driver setup intialised
+2025-02-17 11:29:09 - Test passed for cart icon with empty cart
+2025-02-17 11:29:26 - Test failed for cart iconTimeoutException
+2025-02-17 11:29:38 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:29:38 - Driver Closed
+2025-02-17 11:30:11 - Driver setup intialised
+2025-02-17 11:30:26 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 11:30:38 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:30:49 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:30:50 - Driver Closed
+2025-02-17 11:31:32 - Driver setup intialised
+2025-02-17 11:31:40 - Test passed for cart icon with empty cart
+2025-02-17 11:31:49 - Test passed for cart icon with remove functionality 
+2025-02-17 11:31:56 - Test passed for cart icon
+2025-02-17 11:31:56 - Driver Closed
+2025-02-17 11:34:45 - Driver setup intialised
+2025-02-17 11:34:57 - Test failed for add to cart button UnreachableBrowserException
+2025-02-17 11:34:57 - Error occured during loading websiteUnreachableBrowserException
+2025-02-17 11:36:36 - Driver setup intialised
+2025-02-17 11:36:48 - Test passed for add to cart button 
+2025-02-17 11:37:01 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 11:37:12 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:37:24 - Test failed for cart iconNoSuchElementException
+2025-02-17 11:37:24 - Driver Closed
+2025-02-17 11:40:34 - Driver setup intialised
+2025-02-17 11:40:39 - Test passed for cart icon with empty cart
+2025-02-17 11:40:50 - Test passed for cart icon with remove functionality 
+2025-02-17 11:41:11 - Test failed for cart iconTimeoutException
+2025-02-17 11:41:14 - Driver Closed
+2025-02-17 11:41:14 - Test Completed
+2025-02-17 11:41:51 - Driver setup intialised
+2025-02-17 11:41:56 - Test passed for search the product
+2025-02-17 11:42:09 - Test failed for search with price range filterNoSuchElementException
+2025-02-17 11:42:20 - Test failed for search with color filterNoSuchElementException
+2025-02-17 11:42:32 - Test failed for empty status filterNoSuchElementException
+2025-02-17 11:42:33 - Driver Closed
+2025-02-17 11:42:33 - Test Completed
+2025-02-17 11:45:35 - Driver setup intialised
+2025-02-17 11:45:46 - Test passed for search the product
+2025-02-17 11:46:03 - Test failed for search with price range filterNoSuchElementException
+2025-02-17 11:46:14 - Test failed for search with color filterNoSuchElementException
+2025-02-17 11:46:26 - Test failed for empty status filterNoSuchElementException
+2025-02-17 11:46:28 - Driver Closed
+2025-02-17 11:46:28 - Test Completed
+2025-02-17 11:47:02 - Automation for Poorvika Website started
+2025-02-17 11:47:06 - Driver setup intialised
+2025-02-17 11:47:17 - Test passed for search with price range filter
+2025-02-17 11:47:19 - Driver Closed
+2025-02-17 11:47:19 - Test Completed
+2025-02-17 11:47:42 - Driver setup intialised
+2025-02-17 11:47:55 - Test passed for search the product
+2025-02-17 11:48:11 - Test failed for search with price range filterNoSuchElementException
+2025-02-17 11:48:23 - Test failed for search with color filterNoSuchElementException
+2025-02-17 11:48:35 - Test failed for empty status filterNoSuchElementException
+2025-02-17 11:48:36 - Driver Closed
+2025-02-17 11:48:36 - Test Completed
+2025-02-17 11:50:16 - Driver setup intialised
+2025-02-17 11:50:28 - Test passed for search the product
+2025-02-17 11:50:44 - Test passed for search with color filter
+2025-02-17 11:50:52 - Test passed for search with price range filter
+2025-02-17 11:51:03 - Test passed with status filter
+2025-02-17 11:51:05 - Driver Closed
+2025-02-17 11:51:05 - Test Completed
+2025-02-17 12:17:25 - Automation for Poorvika Website started
+2025-02-17 12:17:28 - Driver setup intialised
+2025-02-17 12:17:35 - Test failed for add to cart button UnreachableBrowserException
+2025-02-17 12:18:25 - Automation for Poorvika Website started
+2025-02-17 12:18:28 - Driver setup intialised
+2025-02-17 12:18:45 - Test failed for vaild email and invalid password
+2025-02-17 12:18:47 - Test failed for invalid email and valid passwordInvalidSelectorException
+2025-02-17 12:18:57 - Test failed for invalid email and invalid passwordUnreachableBrowserException
+2025-02-17 12:21:21 - Automation for Poorvika Website started
+2025-02-17 12:21:24 - Driver setup intialised
+2025-02-17 12:21:28 - Test passed for login for valid email and invalid password
+2025-02-17 12:21:32 - Test passed for invalid email and invalid password
+2025-02-17 12:21:33 - Test failed for invalid email and valid passwordInvalidSelectorException
+2025-02-17 12:21:35 - Test passed for empty email and empty password
+2025-02-17 12:21:37 - Test passed for invalid email format and valid password
+2025-02-17 12:21:41 - Driver Closed
+2025-02-17 12:21:41 - Test Completed
+2025-02-17 12:22:06 - Automation for Poorvika Website started
+2025-02-17 12:22:09 - Driver setup intialised
+2025-02-17 12:22:11 - Test failed for invalid email and valid passwordInvalidSelectorException
+2025-02-17 12:22:12 - Driver Closed
+2025-02-17 12:22:12 - Test Completed
+2025-02-17 12:22:25 - Automation for Poorvika Website started
+2025-02-17 12:22:28 - Driver setup intialised
+2025-02-17 12:22:33 - Test passed for login for valid email and invalid password
+2025-02-17 12:22:36 - Test passed for invalid email and invalid password
+2025-02-17 12:22:38 - Test passed for invalid email and valid password
+2025-02-17 12:22:40 - Test passed for empty email and empty password
+2025-02-17 12:22:42 - Test passed for invalid email format and valid password
+2025-02-17 12:22:46 - Driver Closed
+2025-02-17 12:22:46 - Test Completed
+2025-02-17 12:24:35 - Automation for Poorvika Website started
+2025-02-17 12:24:38 - Driver setup intialised
+2025-02-17 12:24:42 - Test passed for register with already registered email
+2025-02-17 12:24:44 - Test passed for register with invalid mobile number
+2025-02-17 12:24:46 - Test passed for register with invalid email format
+2025-02-17 12:24:47 - Driver Closed
+2025-02-17 12:24:47 - Test Completed
+2025-02-17 12:27:43 - Automation for Poorvika Website started
+2025-02-17 12:27:46 - Driver setup intialised
+2025-02-17 12:27:49 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 12:27:52 - Test passed for invalid email format in OTP button
+2025-02-17 12:27:53 - Driver Closed
+2025-02-17 12:27:53 - Test Completed
+2025-02-17 12:30:55 - Automation for Poorvika Website started
+2025-02-17 12:30:57 - Driver setup intialised
+2025-02-17 12:31:01 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 12:31:04 - Test passed for invalid email format in OTP button
+2025-02-17 12:31:05 - Driver Closed
+2025-02-17 12:31:05 - Test Completed
+2025-02-17 12:36:11 - Automation for Poorvika Website started
+2025-02-17 12:36:13 - Driver setup intialised
+2025-02-17 12:36:32 - Test failed for add to cart button TimeoutException
+2025-02-17 12:36:44 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 12:36:55 - Test failed for Login with invalid mobile number, NoSuchElementException
+2025-02-17 12:37:06 - Test failed for vaild email and invalid password
+2025-02-17 12:37:17 - Test failed for register with already registered emailNoSuchElementException
+2025-02-17 12:37:29 - Test failed for search the productNoSuchElementException
+2025-02-17 12:37:40 - Test failed for cart iconNoSuchElementException
+2025-02-17 12:37:52 - Test failed for invalid email and invalid passwordNoSuchElementException
+2025-02-17 12:38:03 - Test failed for invalid email format in otp buttonNoSuchElementException
+2025-02-17 12:38:14 - Test failed for register with invalid mobile numberNoSuchElementException
+2025-02-17 12:38:26 - Test failed for search with color filterNoSuchElementException
+2025-02-17 12:42:17 - Automation for Poorvika Website started
+2025-02-17 12:42:18 - Driver setup intialised
+2025-02-17 12:42:39 - Test failed for cart iconTimeoutException
+2025-02-17 12:42:40 - Driver Closed
+2025-02-17 12:42:40 - Test Completed
+2025-02-17 12:44:22 - Automation for Poorvika Website started
+2025-02-17 12:44:24 - Driver setup intialised
+2025-02-17 12:44:40 - Test failed for cart iconTimeoutException
+2025-02-17 12:44:41 - Driver Closed
+2025-02-17 12:44:41 - Test Completed
+2025-02-17 12:44:46 - Automation for Poorvika Website started
+2025-02-17 12:44:47 - Driver setup intialised
+2025-02-17 12:44:55 - Test failed for cart iconStaleElementReferenceException
+2025-02-17 12:44:56 - Driver Closed
+2025-02-17 12:44:56 - Test Completed
+2025-02-17 12:45:22 - Automation for Poorvika Website started
+2025-02-17 12:45:23 - Driver setup intialised
+2025-02-17 12:45:32 - Test passed for cart icon with remove functionality 
+2025-02-17 12:45:33 - Driver Closed
+2025-02-17 12:45:33 - Test Completed
+2025-02-17 12:50:21 - Automation for Poorvika Website started
+2025-02-17 12:50:23 - Driver setup intialised
+2025-02-17 12:50:39 - Test failed for cart iconTimeoutException
+2025-02-17 12:50:40 - Driver Closed
+2025-02-17 12:50:40 - Test Completed
+2025-02-17 12:50:57 - Automation for Poorvika Website started
+2025-02-17 12:50:59 - Driver setup intialised
+2025-02-17 12:51:09 - Test passed for cart icon with remove functionality 
+2025-02-17 12:51:10 - Driver Closed
+2025-02-17 12:51:10 - Test Completed
+2025-02-17 13:45:01 - Automation for Poorvika Website started
+2025-02-17 13:45:04 - Driver setup intialised
+2025-02-17 13:45:08 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 13:45:11 - Test passed for invalid email format in OTP button
+2025-02-17 13:45:12 - Driver Closed
+2025-02-17 13:45:12 - Test Completed
+2025-02-17 13:49:54 - Automation for Poorvika Website started
+2025-02-17 13:49:57 - Driver setup intialised
+2025-02-17 13:50:08 - Test passed for cart icon
+2025-02-17 13:50:10 - Driver Closed
+2025-02-17 13:50:10 - Test Completed
+2025-02-17 13:54:00 - Automation for Poorvika Website started
+2025-02-17 13:54:03 - Driver setup intialised
+2025-02-17 13:54:17 - Test passed with status filter
+2025-02-17 13:54:19 - Driver Closed
+2025-02-17 13:54:19 - Test Completed
+2025-02-17 13:57:29 - Automation for Poorvika Website started
+2025-02-17 13:57:32 - Driver setup intialised
+2025-02-17 13:57:44 - Driver Closed
+2025-02-17 13:57:44 - Test Completed
+2025-02-17 13:58:09 - Automation for Poorvika Website started
+2025-02-17 13:58:12 - Driver setup intialised
+2025-02-17 13:58:22 - Test passed for add to cart button 
+2025-02-17 13:58:23 - Driver Closed
+2025-02-17 13:58:23 - Test Completed
+2025-02-17 14:01:32 - Automation for Poorvika Website started
+2025-02-17 14:01:37 - Driver setup intialised
+2025-02-17 14:01:49 - Test passed with status filter
+2025-02-17 14:01:51 - Driver Closed
+2025-02-17 14:01:51 - Test Completed
+2025-02-17 14:03:08 - Automation for Poorvika Website started
+2025-02-17 14:03:11 - Driver setup intialised
+2025-02-17 14:03:28 - Test passed for search with color filter
+2025-02-17 14:03:29 - Driver Closed
+2025-02-17 14:03:29 - Test Completed
+2025-02-17 14:05:30 - Automation for Poorvika Website started
+2025-02-17 14:05:33 - Driver setup intialised
+2025-02-17 14:05:45 - Test passed for search the product
+2025-02-17 14:05:47 - Driver Closed
+2025-02-17 14:05:47 - Test Completed
+2025-02-17 14:13:27 - Automation for Poorvika Website started
+2025-02-17 14:16:56 - Automation for Poorvika Website started
+2025-02-17 14:17:06 - Driver setup intialised
+2025-02-17 14:17:19 - Driver Closed
+2025-02-17 14:17:19 - Test Completed
+2025-02-17 14:18:25 - Automation for Poorvika Website started
+2025-02-17 14:18:28 - Driver setup intialised
+2025-02-17 14:18:42 - Driver Closed
+2025-02-17 14:18:42 - Test Completed
+2025-02-17 14:19:58 - Automation for Poorvika Website started
+2025-02-17 14:20:02 - Driver setup intialised
+2025-02-17 14:20:11 - Test passed for search the product
+2025-02-17 14:20:12 - Driver Closed
+2025-02-17 14:20:12 - Test Completed
+2025-02-17 14:24:30 - Automation for Poorvika Website started
+2025-02-17 14:24:32 - Driver setup intialised
+2025-02-17 14:24:35 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 14:24:37 - Test passed for invalid email format in OTP button
+2025-02-17 14:24:38 - Driver Closed
+2025-02-17 14:24:38 - Test Completed
+2025-02-17 14:25:31 - Automation for Poorvika Website started
+2025-02-17 14:25:33 - Driver setup intialised
+2025-02-17 14:25:37 - Test passed for login for valid email and invalid password
+2025-02-17 14:25:39 - Test passed for invalid email and invalid password
+2025-02-17 14:25:41 - Test passed for invalid email and valid password
+2025-02-17 14:25:43 - Test passed for empty email and empty password
+2025-02-17 14:25:44 - Test passed for invalid email format and valid password
+2025-02-17 14:25:47 - Driver Closed
+2025-02-17 14:25:47 - Test Completed
+2025-02-17 14:27:04 - Automation for Poorvika Website started
+2025-02-17 14:27:06 - Driver setup intialised
+2025-02-17 14:27:09 - Test passed for login for valid email and invalid password
+2025-02-17 14:27:13 - Test passed for invalid email and invalid password
+2025-02-17 14:27:15 - Test passed for invalid email and valid password
+2025-02-17 14:27:17 - Test passed for empty email and empty password
+2025-02-17 14:27:18 - Test passed for invalid email format and valid password
+2025-02-17 14:27:21 - Driver Closed
+2025-02-17 14:27:21 - Test Completed
+2025-02-17 14:52:19 - Automation for Poorvika Website started
+2025-02-17 14:52:21 - Driver setup intialised
+2025-02-17 14:52:35 - Test failed for add to cart button UnreachableBrowserException
+2025-02-17 14:52:59 - Automation for Poorvika Website started
+2025-02-17 14:53:00 - Driver setup intialised
+2025-02-17 14:53:08 - Test passed for add to cart button 
+2025-02-17 14:53:20 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 14:53:32 - Test failed for Login with invalid mobile number, NoSuchElementException
+2025-02-17 14:53:43 - Test failed for vaild email and invalid password
+2025-02-17 14:53:44 - Error occured during loading websiteUnreachableBrowserException
+2025-02-17 14:56:12 - Automation for Poorvika Website started
+2025-02-17 14:56:14 - Driver setup intialised
+2025-02-17 14:56:22 - Test passed for add to cart button 
+2025-02-17 14:56:34 - Test passed for cart icon with empty cart
+2025-02-17 14:56:36 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 14:56:38 - Test failed for vaild email and invalid password
+2025-02-17 15:05:32 - Automation for Poorvika Website started
+2025-02-17 15:05:35 - Driver setup intialised
+2025-02-17 15:05:39 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:05:41 - Test passed for invalid email format in OTP button
+2025-02-17 15:05:56 - Test failed for vaild email and invalid password
+2025-02-17 15:06:08 - Test failed for invalid email and valid passwordNoSuchElementException
+2025-02-17 15:06:20 - Test failed for invalid email and invalid passwordNoSuchElementException
+2025-02-17 15:06:32 - Test failed for empty email and empty passwordNoSuchElementException
+2025-02-17 15:06:43 - Test failed for invalid email format and valid passwordUnreachableBrowserException
+2025-02-17 15:13:06 - Automation for Poorvika Website started
+2025-02-17 15:13:09 - Driver setup intialised
+2025-02-17 15:13:12 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:13:15 - Test passed for invalid email format in OTP button
+2025-02-17 15:13:30 - Test failed for vaild email and invalid password
+2025-02-17 15:13:41 - Test failed for invalid email and valid passwordNoSuchElementException
+2025-02-17 15:13:53 - Test failed for invalid email and invalid passwordNoSuchElementException
+2025-02-17 15:14:06 - Test failed for empty email and empty passwordNoSuchElementException
+2025-02-17 15:14:18 - Test failed for invalid email format and valid passwordNoSuchElementException
+2025-02-17 15:14:31 - Test failed for register with already registered emailNoSuchElementException
+2025-02-17 15:16:43 - Automation for Poorvika Website started
+2025-02-17 15:16:46 - Driver setup intialised
+2025-02-17 15:17:02 - Test failed for vaild email and invalid password
+2025-02-17 15:17:13 - Test failed for invalid email and valid passwordNoSuchElementException
+2025-02-17 15:17:21 - Test failed for invalid email and invalid passwordUnreachableBrowserException
+2025-02-17 15:30:41 - Automation for Poorvika Website started
+2025-02-17 15:30:44 - Driver setup intialised
+2025-02-17 15:30:49 - Test passed for login for valid email and invalid password
+2025-02-17 15:30:53 - Test passed for invalid email and valid password
+2025-02-17 15:30:56 - Test passed for invalid email and invalid password
+2025-02-17 15:30:58 - Test passed for empty email and empty password
+2025-02-17 15:31:13 - Test failed for invalid email format and valid passwordNoSuchElementException
+2025-02-17 15:31:15 - Driver Closed
+2025-02-17 15:31:15 - Test Completed
+2025-02-17 15:32:21 - Automation for Poorvika Website started
+2025-02-17 15:32:24 - Driver setup intialised
+2025-02-17 15:32:29 - Test passed for login for valid email and invalid password
+2025-02-17 15:32:32 - Test passed for invalid email and valid password
+2025-02-17 15:32:34 - Test passed for invalid email and invalid password
+2025-02-17 15:32:36 - Test passed for empty email and empty password
+2025-02-17 15:32:51 - Test failed for invalid email format and valid passwordNoSuchElementException
+2025-02-17 15:32:52 - Driver Closed
+2025-02-17 15:32:52 - Test Completed
+2025-02-17 15:35:24 - Automation for Poorvika Website started
+2025-02-17 15:35:27 - Driver setup intialised
+2025-02-17 15:35:31 - Test passed for login for valid email and invalid password
+2025-02-17 15:35:34 - Test passed for invalid email and valid password
+2025-02-17 15:35:36 - Test passed for invalid email and invalid password
+2025-02-17 15:35:38 - Test passed for empty email and empty password
+2025-02-17 15:35:40 - Test passed for invalid email format and valid password
+2025-02-17 15:35:44 - Test passed for login with valid email and valid password
+2025-02-17 15:35:46 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:35:48 - Test passed for invalid email format in OTP button
+2025-02-17 15:35:50 - Test passed for register with already registered email
+2025-02-17 15:35:52 - Test passed for register with invalid mobile number
+2025-02-17 15:35:54 - Test passed for register with invalid email format
+2025-02-17 15:36:01 - Test passed for search the product
+2025-02-17 15:36:09 - Test passed for search with price range filter
+2025-02-17 15:36:18 - Test passed for search with color filter
+2025-02-17 15:36:30 - Test passed with status filter
+2025-02-17 15:36:39 - Test passed for add to cart button 
+2025-02-17 15:36:52 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 15:37:04 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:37:15 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:37:16 - Driver Closed
+2025-02-17 15:37:16 - Test Completed
+2025-02-17 15:39:29 - Automation for Poorvika Website started
+2025-02-17 15:39:32 - Driver setup intialised
+2025-02-17 15:39:36 - Test passed for login for valid email and invalid password
+2025-02-17 15:39:39 - Test passed for invalid email and valid password
+2025-02-17 15:39:42 - Test passed for invalid email and invalid password
+2025-02-17 15:39:44 - Test passed for empty email and empty password
+2025-02-17 15:39:46 - Test passed for invalid email format and valid password
+2025-02-17 15:39:49 - Test passed for login with valid email and valid password
+2025-02-17 15:39:51 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:39:53 - Test passed for invalid email format in OTP button
+2025-02-17 15:39:56 - Test passed for register with already registered email
+2025-02-17 15:39:57 - Test passed for register with invalid mobile number
+2025-02-17 15:40:00 - Test passed for register with invalid email format
+2025-02-17 15:40:06 - Test passed for search the product
+2025-02-17 15:40:15 - Test passed for search with price range filter
+2025-02-17 15:40:23 - Test passed for search with color filter
+2025-02-17 15:40:33 - Test passed with status filter
+2025-02-17 15:40:41 - Test failed for add to cart button StaleElementReferenceException
+2025-02-17 15:40:42 - Driver Closed
+2025-02-17 15:40:42 - Test Completed
+2025-02-17 15:41:42 - Automation for Poorvika Website started
+2025-02-17 15:41:44 - Driver setup intialised
+2025-02-17 15:41:49 - Test passed for login for valid email and invalid password
+2025-02-17 15:41:52 - Test passed for invalid email and valid password
+2025-02-17 15:41:54 - Test passed for invalid email and invalid password
+2025-02-17 15:41:57 - Test passed for empty email and empty password
+2025-02-17 15:41:59 - Test passed for invalid email format and valid password
+2025-02-17 15:42:02 - Test passed for login with valid email and valid password
+2025-02-17 15:42:05 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:42:07 - Test passed for invalid email format in OTP button
+2025-02-17 15:42:10 - Test passed for register with already registered email
+2025-02-17 15:42:12 - Test passed for register with invalid mobile number
+2025-02-17 15:42:14 - Test passed for register with invalid email format
+2025-02-17 15:42:24 - Test passed for search the product
+2025-02-17 15:42:32 - Test passed for search with price range filter
+2025-02-17 15:42:41 - Test passed for search with color filter
+2025-02-17 15:42:51 - Test passed with status filter
+2025-02-17 15:43:00 - Test passed for add to cart button 
+2025-02-17 15:43:03 - Test passed for cart icon with empty cart
+2025-02-17 15:43:14 - Test passed for cart icon with remove functionality 
+2025-02-17 15:43:23 - Test passed for cart icon
+2025-02-17 15:43:24 - Driver Closed
+2025-02-17 15:43:24 - Test Completed
+2025-02-17 15:46:19 - Automation for Poorvika Website started
+2025-02-17 15:46:22 - Driver setup intialised
+2025-02-17 15:46:27 - Test passed for login for valid email and invalid password
+2025-02-17 15:46:30 - Test passed for invalid email and valid password
+2025-02-17 15:46:33 - Test passed for invalid email and invalid password
+2025-02-17 15:46:34 - Test passed for empty email and empty password
+2025-02-17 15:46:36 - Test passed for invalid email format and valid password
+2025-02-17 15:46:39 - Test passed for login with valid email and valid password
+2025-02-17 15:46:42 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:46:44 - Test passed for invalid email format in OTP button
+2025-02-17 15:46:47 - Test passed for register with already registered email
+2025-02-17 15:46:49 - Test passed for register with invalid mobile number
+2025-02-17 15:46:51 - Test passed for register with invalid email format
+2025-02-17 15:46:58 - Test passed for search the product
+2025-02-17 15:47:08 - Test passed for search with price range filter
+2025-02-17 15:47:17 - Test passed for search with color filter
+2025-02-17 15:47:27 - Test passed with status filter
+2025-02-17 15:47:40 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 15:47:52 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:48:03 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:48:04 - Driver Closed
+2025-02-17 15:48:04 - Test Completed
+2025-02-17 15:49:37 - Automation for Poorvika Website started
+2025-02-17 15:49:40 - Driver setup intialised
+2025-02-17 15:49:44 - Test passed for login for valid email and invalid password
+2025-02-17 15:49:47 - Test passed for invalid email and valid password
+2025-02-17 15:49:50 - Test passed for invalid email and invalid password
+2025-02-17 15:49:52 - Test passed for empty email and empty password
+2025-02-17 15:49:54 - Test passed for invalid email format and valid password
+2025-02-17 15:49:56 - Test failed for Login with valid email and valid password , UnreachableBrowserException
+2025-02-17 15:51:10 - Automation for Poorvika Website started
+2025-02-17 15:51:13 - Driver setup intialised
+2025-02-17 15:51:18 - Test passed for login for valid email and invalid password
+2025-02-17 15:51:20 - Test passed for invalid email and valid password
+2025-02-17 15:51:23 - Test passed for invalid email and invalid password
+2025-02-17 15:51:25 - Test passed for empty email and empty password
+2025-02-17 15:51:27 - Test passed for invalid email format and valid password
+2025-02-17 15:51:30 - Test passed for login with valid email and valid password
+2025-02-17 15:51:32 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:51:35 - Test passed for invalid email format in OTP button
+2025-02-17 15:51:38 - Test passed for register with already registered email
+2025-02-17 15:51:40 - Test passed for register with invalid mobile number
+2025-02-17 15:51:42 - Test passed for register with invalid email format
+2025-02-17 15:51:48 - Test passed for search the product
+2025-02-17 15:51:57 - Test passed for search with price range filter
+2025-02-17 15:52:06 - Test passed for search with color filter
+2025-02-17 15:52:16 - Test passed with status filter
+2025-02-17 15:52:29 - Test failed for cart icon with empty cart NoSuchElementException
+2025-02-17 15:52:40 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:52:52 - Test failed for cart iconNoSuchElementException
+2025-02-17 15:52:53 - Driver Closed
+2025-02-17 15:52:53 - Test Completed
+2025-02-17 15:55:39 - Automation for Poorvika Website started
+2025-02-17 15:55:52 - Driver setup intialised
+2025-02-17 15:56:27 - Error occured during loading websiteWebDriverException
+2025-02-17 15:56:32 - Automation for Poorvika Website started
+2025-02-17 15:56:35 - Driver setup intialised
+2025-02-17 15:56:59 - Error occured during loading websiteWebDriverException
+2025-02-17 15:57:09 - Automation for Poorvika Website started
+2025-02-17 15:57:15 - Driver setup intialised
+2025-02-17 15:57:19 - Test passed for login for valid email and invalid password
+2025-02-17 15:57:22 - Test passed for invalid email and valid password
+2025-02-17 15:57:24 - Test passed for invalid email and invalid password
+2025-02-17 15:57:26 - Test passed for empty email and empty password
+2025-02-17 15:57:28 - Test passed for invalid email format and valid password
+2025-02-17 15:57:31 - Test passed for login with valid email and valid password
+2025-02-17 15:57:34 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:57:36 - Test passed for invalid email format in OTP button
+2025-02-17 15:57:38 - Test passed for register with already registered email
+2025-02-17 15:57:40 - Test passed for register with invalid mobile number
+2025-02-17 15:57:42 - Test passed for register with invalid email format
+2025-02-17 15:57:48 - Test passed for search the product
+2025-02-17 15:57:57 - Test passed for search with price range filter
+2025-02-17 15:58:06 - Test passed for search with color filter
+2025-02-17 15:58:17 - Test passed with status filter
+2025-02-17 15:58:29 - Driver Closed
+2025-02-17 15:58:29 - Test Completed
+2025-02-17 15:58:58 - Automation for Poorvika Website started
+2025-02-17 15:59:00 - Driver setup intialised
+2025-02-17 15:59:04 - Test passed for login for valid email and invalid password
+2025-02-17 15:59:08 - Test passed for invalid email and valid password
+2025-02-17 15:59:10 - Test passed for invalid email and invalid password
+2025-02-17 15:59:12 - Test passed for empty email and empty password
+2025-02-17 15:59:14 - Test passed for invalid email format and valid password
+2025-02-17 15:59:17 - Test passed for login with valid email and valid password
+2025-02-17 15:59:19 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 15:59:22 - Test passed for invalid email format in OTP button
+2025-02-17 15:59:23 - Test passed for register with already registered email
+2025-02-17 15:59:25 - Test passed for register with invalid mobile number
+2025-02-17 15:59:27 - Test passed for register with invalid email format
+2025-02-17 15:59:34 - Test passed for search the product
+2025-02-17 15:59:42 - Test passed for search with price range filter
+2025-02-17 15:59:51 - Test passed for search with color filter
+2025-02-17 16:00:02 - Test passed with status filter
+2025-02-17 16:00:11 - Test failed for add to cart button StaleElementReferenceException
+2025-02-17 16:00:12 - Driver Closed
+2025-02-17 16:00:12 - Test Completed
+2025-02-17 16:01:47 - Automation for Poorvika Website started
+2025-02-17 16:01:50 - Driver setup intialised
+2025-02-17 16:02:02 - Test passed for add to cart button 
+2025-02-17 16:02:07 - Test passed for cart icon with empty cart
+2025-02-17 16:02:15 - Test passed for cart icon with remove functionality 
+2025-02-17 16:02:19 - Test passed for login for valid email and invalid password
+2025-02-17 16:02:27 - Test passed for cart icon
+2025-02-17 16:02:30 - Test passed for invalid email and valid password
+2025-02-17 16:02:32 - Test passed for invalid email and invalid password
+2025-02-17 16:02:34 - Test passed for empty email and empty password
+2025-02-17 16:02:36 - Test passed for invalid email format and valid password
+2025-02-17 16:02:39 - Test passed for login with valid email and valid password
+2025-02-17 16:02:41 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 16:02:43 - Test passed for invalid email format in OTP button
+2025-02-17 16:02:46 - Test passed for register with already registered email
+2025-02-17 16:02:48 - Test passed for register with invalid mobile number
+2025-02-17 16:02:49 - Test passed for register with invalid email format
+2025-02-17 16:02:56 - Test passed for search the product
+2025-02-17 16:03:04 - Test passed for search with price range filter
+2025-02-17 16:03:13 - Test passed for search with color filter
+2025-02-17 16:03:23 - Test passed with status filter
+2025-02-17 16:03:24 - Driver Closed
+2025-02-17 16:03:24 - Test Completed
+2025-02-17 16:05:11 - Automation for Poorvika Website started
+2025-02-17 16:05:14 - Driver setup intialised
+2025-02-17 16:05:19 - Test passed for login for valid email and invalid password
+2025-02-17 16:05:22 - Test passed for invalid email and valid password
+2025-02-17 16:05:24 - Test passed for invalid email and invalid password
+2025-02-17 16:05:26 - Test passed for empty email and empty password
+2025-02-17 16:05:28 - Test passed for invalid email format and valid password
+2025-02-17 16:05:30 - Test passed for login with valid email and valid password
+2025-02-17 16:05:33 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 16:05:34 - Test passed for invalid email format in OTP button
+2025-02-17 16:05:37 - Test passed for register with already registered email
+2025-02-17 16:05:39 - Test passed for register with invalid mobile number
+2025-02-17 16:05:40 - Test passed for register with invalid email format
+2025-02-17 16:05:47 - Test passed for search the product
+2025-02-17 16:05:54 - Test passed for search with price range filter
+2025-02-17 16:06:02 - Test passed for search with color filter
+2025-02-17 16:06:11 - Test passed with status filter
+2025-02-17 16:06:19 - Driver Closed
+2025-02-17 16:06:19 - Test Completed
+2025-02-17 16:06:50 - Automation for Poorvika Website started
+2025-02-17 16:06:52 - Driver setup intialised
+2025-02-17 16:06:55 - Test passed for login for valid email and invalid password
+2025-02-17 16:06:57 - Test passed for invalid email and valid password
+2025-02-17 16:06:59 - Test passed for invalid email and invalid password
+2025-02-17 16:07:01 - Test passed for empty email and empty password
+2025-02-17 16:07:02 - Test passed for invalid email format and valid password
+2025-02-17 16:07:04 - Test passed for login with valid email and valid password
+2025-02-17 16:07:07 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 16:07:09 - Test passed for invalid email format in OTP button
+2025-02-17 16:07:10 - Test passed for register with already registered email
+2025-02-17 16:07:12 - Test passed for register with invalid mobile number
+2025-02-17 16:07:13 - Test passed for register with invalid email format
+2025-02-17 16:07:17 - Test passed for search the product
+2025-02-17 16:07:24 - Test passed for search with price range filter
+2025-02-17 16:07:30 - Test passed for search with color filter
+2025-02-17 16:07:39 - Test passed with status filter
+2025-02-17 16:07:54 - Test failed for add to cart button TimeoutException
+2025-02-17 16:07:55 - Driver Closed
+2025-02-17 16:07:55 - Test Completed
+2025-02-17 16:08:09 - Automation for Poorvika Website started
+2025-02-17 16:08:11 - Driver setup intialised
+2025-02-17 16:08:15 - Test passed for login for valid email and invalid password
+2025-02-17 16:08:17 - Test passed for invalid email and valid password
+2025-02-17 16:08:19 - Test passed for invalid email and invalid password
+2025-02-17 16:08:21 - Test passed for empty email and empty password
+2025-02-17 16:08:22 - Test passed for invalid email format and valid password
+2025-02-17 16:08:24 - Test passed for login with valid email and valid password
+2025-02-17 16:08:26 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 16:08:28 - Test passed for invalid email format in OTP button
+2025-02-17 16:08:30 - Test passed for register with already registered email
+2025-02-17 16:08:31 - Test passed for register with invalid mobile number
+2025-02-17 16:08:32 - Test passed for register with invalid email format
+2025-02-17 16:08:37 - Test passed for search the product
+2025-02-17 16:08:45 - Test passed for search with price range filter
+2025-02-17 16:08:51 - Test passed for search with color filter
+2025-02-17 16:08:59 - Test passed with status filter
+2025-02-17 16:09:07 - Test passed for add to cart button 
+2025-02-17 16:09:10 - Test passed for cart icon with empty cart
+2025-02-17 16:09:16 - Test passed for cart icon with remove functionality 
+2025-02-17 16:09:22 - Test passed for cart icon
+2025-02-17 16:09:22 - Driver Closed
+2025-02-17 16:09:22 - Test Completed
+2025-02-17 16:28:18 - Automation for Poorvika Website started
+2025-02-17 16:28:20 - Driver setup intialised
+2025-02-17 16:28:25 - Driver Closed
+2025-02-17 16:28:25 - Test Completed
+2025-02-17 16:29:33 - Automation for Poorvika Website started
+2025-02-17 16:29:35 - Driver setup intialised
+2025-02-17 16:29:40 - Driver Closed
+2025-02-17 16:29:40 - Test Completed
+2025-02-17 16:30:56 - Automation for Poorvika Website started
+2025-02-17 16:30:58 - Driver setup intialised
+2025-02-17 16:31:02 - Test passed with status filter
+2025-02-17 16:31:03 - Driver Closed
+2025-02-17 16:31:03 - Test Completed
+2025-02-17 16:34:09 - Automation for Poorvika Website started
+2025-02-17 16:34:09 - Test Completed
+2025-02-17 16:34:33 - Automation for Poorvika Website started
+2025-02-17 16:34:33 - Test Completed
+2025-02-17 16:35:00 - Automation for Poorvika Website started
+2025-02-17 16:35:02 - Driver setup intialised
+2025-02-17 16:35:05 - Test passed for login for valid email and invalid password
+2025-02-17 16:35:07 - Test passed for invalid email and valid password
+2025-02-17 16:35:09 - Test passed for invalid email and invalid password
+2025-02-17 16:35:11 - Test passed for empty email and empty password
+2025-02-17 16:35:12 - Test passed for invalid email format and valid password
+2025-02-17 16:35:14 - Test passed for login with valid email and valid password
+2025-02-17 16:35:16 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 16:35:18 - Test passed for invalid email format in OTP button
+2025-02-17 16:35:20 - Test passed for register with already registered email
+2025-02-17 16:35:21 - Test passed for register with invalid mobile number
+2025-02-17 16:35:22 - Test passed for register with invalid email format
+2025-02-17 16:35:26 - Test passed for search the product
+2025-02-17 16:35:32 - Test passed for search with price range filter
+2025-02-17 16:35:38 - Test passed for search with color filter
+2025-02-17 16:35:47 - Test passed with status filter
+2025-02-17 16:35:51 - Test passed with status filter
+2025-02-17 16:35:57 - Test passed for add to cart button 
+2025-02-17 16:36:00 - Test passed for cart icon with empty cart
+2025-02-17 16:36:06 - Test passed for cart icon with remove functionality 
+2025-02-17 16:36:11 - Test passed for cart icon
+2025-02-17 16:36:13 - Driver Closed
+2025-02-17 16:36:13 - Test Completed
+2025-02-17 17:14:06 - Automation for Poorvika Website started
+2025-02-17 17:14:08 - Driver setup intialised
+2025-02-17 17:14:11 - Test passed for login for valid email and invalid password
+2025-02-17 17:14:14 - Test passed for invalid email and valid password
+2025-02-17 17:14:16 - Test passed for invalid email and invalid password
+2025-02-17 17:14:17 - Test passed for empty email and empty password
+2025-02-17 17:14:18 - Test passed for invalid email format and valid password
+2025-02-17 17:14:20 - Test passed for login with valid email and valid password
+2025-02-17 17:14:22 - Driver Closed
+2025-02-17 17:14:22 - Test Completed
+2025-02-17 17:14:35 - Automation for Poorvika Website started
+2025-02-17 17:14:37 - Driver setup intialised
+2025-02-17 17:14:40 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 17:14:41 - Test passed for invalid email format in OTP button
+2025-02-17 17:14:42 - Driver Closed
+2025-02-17 17:14:42 - Test Completed
+2025-02-17 17:14:50 - Automation for Poorvika Website started
+2025-02-17 17:14:52 - Driver setup intialised
+2025-02-17 17:14:55 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 17:14:57 - Test passed for invalid email format in OTP button
+2025-02-17 17:14:57 - Driver Closed
+2025-02-17 17:14:57 - Test Completed
+2025-02-17 17:15:08 - Automation for Poorvika Website started
+2025-02-17 17:15:10 - Driver setup intialised
+2025-02-17 17:15:16 - Test passed for search the product
+2025-02-17 17:15:23 - Test passed for search with price range filter
+2025-02-17 17:15:28 - Test passed for search with color filter
+2025-02-17 17:15:37 - Test passed with status filter
+2025-02-17 17:15:41 - Test passed with status filter
+2025-02-17 17:15:42 - Driver Closed
+2025-02-17 17:15:42 - Test Completed
+2025-02-17 17:22:10 - Automation for Poorvika Website started
+2025-02-17 17:22:10 - Automation for Poorvika Website started
+2025-02-17 17:22:12 - Driver setup intialised
+2025-02-17 17:22:15 - Driver setup intialised
+2025-02-17 17:22:17 - Test failed for Login with invalid mobile number, WebDriverException
+2025-02-17 17:22:20 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 17:22:21 - Driver Closed
+2025-02-17 17:22:21 - Test Completed
+2025-02-17 17:22:48 - Automation for Poorvika Website started
+2025-02-17 17:22:50 - Driver setup intialised
+2025-02-17 17:22:53 - Test passed for login with valid email and valid password
+2025-02-17 17:22:55 - Driver Closed
+2025-02-17 17:22:55 - Test Completed
+2025-02-17 17:25:18 - Automation for Poorvika Website started
+2025-02-17 17:25:19 - Driver setup intialised
+2025-02-17 17:25:22 - Test passed for register with invalid mobile number
+2025-02-17 17:25:23 - Driver Closed
+2025-02-17 17:25:23 - Test Completed
+2025-02-17 17:45:09 - Automation for Poorvika Website started
+2025-02-17 17:45:11 - Driver setup intialised
+2025-02-17 17:45:17 - Test passed for search the product
+2025-02-17 17:45:23 - Test passed for search with price range filter
+2025-02-17 17:45:30 - Test passed for search with color filter
+2025-02-17 17:45:38 - Test passed with status filter
+2025-02-17 17:45:43 - Test passed with status filter
+2025-02-17 17:45:44 - Driver Closed
+2025-02-17 17:45:44 - Test Completed
+2025-02-17 18:04:04 - Automation for Poorvika Website started
+2025-02-17 18:04:04 - Test Completed
+2025-02-17 18:05:04 - Automation for Poorvika Website started
+2025-02-17 18:05:06 - Driver setup intialised
+2025-02-17 18:05:09 - Test passed for register with already registered email
+2025-02-17 18:05:11 - Test passed for register with invalid mobile number
+2025-02-17 18:05:13 - Test passed for register with invalid email format
+2025-02-17 18:05:13 - Driver Closed
+2025-02-17 18:05:13 - Test Completed
+2025-02-17 18:06:05 - Automation for Poorvika Website started
+2025-02-17 18:06:07 - Driver setup intialised
+2025-02-17 18:06:09 - Test passed for 'Login using for invalid mobile number'
+2025-02-17 18:06:11 - Test passed for invalid email format in OTP button
+2025-02-17 18:06:11 - Driver Closed
+2025-02-17 18:06:11 - Test Completed
+2025-02-17 18:06:46 - Automation for Poorvika Website started
+2025-02-17 18:06:47 - Driver setup intialised
+2025-02-17 18:06:51 - Test passed for login for valid email and invalid password
+2025-02-17 18:06:53 - Test passed for invalid email and valid password
+2025-02-17 18:06:55 - Test passed for invalid email and invalid password
+2025-02-17 18:06:56 - Test passed for empty email and empty password
+2025-02-17 18:06:58 - Test passed for invalid email format and valid password
+2025-02-17 18:07:00 - Test passed for login with valid email and valid password
+2025-02-17 18:07:01 - Driver Closed
+2025-02-17 18:07:01 - Test Completed
+2025-02-17 18:07:25 - Automation for Poorvika Website started
+2025-02-17 18:07:26 - Driver setup intialised
+2025-02-17 18:07:46 - Driver Closed
+2025-02-17 18:07:46 - Test Completed
+2025-02-17 18:07:54 - Automation for Poorvika Website started
+2025-02-17 18:07:56 - Driver setup intialised
+2025-02-17 18:08:12 - Test failed for add to cart button TimeoutException
+2025-02-17 18:08:13 - Driver Closed
+2025-02-17 18:08:13 - Test Completed
+2025-02-17 18:08:24 - Automation for Poorvika Website started
+2025-02-17 18:08:25 - Driver setup intialised
+2025-02-17 18:08:34 - Test passed for add to cart button 
+2025-02-17 18:08:35 - Driver Closed
+2025-02-17 18:08:35 - Test Completed
+2025-02-17 18:08:46 - Automation for Poorvika Website started
+2025-02-17 18:08:47 - Driver setup intialised
+2025-02-17 18:08:51 - Test passed for cart icon with empty cart
+2025-02-17 18:08:59 - Test passed for cart icon with remove functionality 
+2025-02-17 18:09:07 - Test passed for cart icon
+2025-02-17 18:09:08 - Driver Closed
+2025-02-17 18:09:08 - Test Completed
+2025-02-18 11:25:30 - Website initialised
+2025-02-18 11:25:36 - Test passed for search with product
+2025-02-18 11:25:47 - Website initialised
+2025-02-18 11:25:53 - Test passed for search with product
+2025-02-18 11:26:05 - Website initialised
+2025-02-18 11:26:11 - Test passed for search with color filter
+2025-02-18 11:26:21 - Website initialised
+2025-02-18 11:26:29 - Test passed for search with status filter
+2025-02-18 11:26:39 - Website initialised
+2025-02-18 11:26:42 - Test passed for search with wrong keyword
+2025-02-18 11:52:52 - Website initialised
+2025-02-18 11:52:54 - Test passed for cart is empty
+2025-02-18 11:52:56 - Website initialised
+2025-02-18 11:53:06 - Test failed for cart with remove functionalityNoSuchElementException
+2025-02-18 11:53:07 - Website initialised
+2025-02-18 11:53:17 - Test failed for cart with productNoSuchElementException
+2025-02-18 11:54:45 - Website initialised
+2025-02-18 11:54:52 - Test passed for cart with remove functionality
+2025-02-18 11:55:21 - Website initialised
+2025-02-18 11:55:28 - Test passed for cart with product
+2025-02-18 11:58:09 - Automation for Poorvika Website started
+2025-02-18 11:58:11 - Driver setup intialised
+2025-02-18 11:58:18 - Test failed for add to cart button NoSuchSessionException
+2025-02-18 12:35:09 - Website initialised
+2025-02-18 12:35:14 - Test passed for search with product
+2025-02-18 12:35:16 - Website initialised
+2025-02-18 12:35:20 - Test passed for search with product
+2025-02-18 12:35:22 - Website initialised
+2025-02-18 12:35:26 - Test passed for search with color filter
+2025-02-18 12:35:28 - Website initialised
+2025-02-18 12:35:35 - Test passed for search with status filter
+2025-02-18 12:35:37 - Website initialised
+2025-02-18 12:35:39 - Test passed for search with wrong keyword
+2025-02-18 12:35:51 - Website initialised
+2025-02-18 12:35:53 - Test passed for register with invalid mobile number
+2025-02-18 12:35:54 - Website initialised
+2025-02-18 12:35:55 - Test passed for register with invalid email format
+2025-02-18 12:35:56 - Website initialised
+2025-02-18 12:35:57 - Test passed for registration with already registered user
+2025-02-18 12:36:13 - Website initialised
+2025-02-18 12:36:28 - Test failed for add to cart buttonTimeoutException
+2025-02-18 12:37:38 - Website initialised
+2025-02-18 12:37:44 - Test passed for add to cart
+2025-02-18 12:39:06 - Website initialised
+2025-02-18 12:39:08 - Test passed for cart is empty
+2025-02-18 12:39:10 - Website initialised
+2025-02-18 12:39:15 - Test passed for cart with remove functionality
+2025-02-18 12:39:17 - Website initialised
+2025-02-18 12:39:24 - Test passed for cart with product
+2025-02-18 13:23:44 - Test failed for add to cart buttonNullPointerException
+2025-02-18 13:32:26 - Website initialised
+2025-02-18 13:32:47 - Test failed for add to cart buttonWebDriverException
+2025-02-18 13:32:47 - Screenshot errorNoSuchSessionException
+2025-02-18 13:36:13 - Website initialised
+2025-02-18 13:36:20 - Test passed for add to cart
+2025-02-18 13:38:58 - Driver initialised
+2025-02-18 13:39:00 - Website initialised
+2025-02-18 13:39:02 - Test passed for cart is empty
+2025-02-18 13:39:04 - Website initialised
+2025-02-18 13:39:10 - Test passed for cart with remove functionality
+2025-02-18 13:39:11 - Website initialised
+2025-02-18 13:39:15 - Test passed for cart with product
+2025-02-18 13:39:16 - Driver session closed
+2025-02-18 13:41:02 - Website initialised
+2025-02-18 13:41:03 - Test passed for register with invalid mobile number
+2025-02-18 13:41:05 - Website initialised
+2025-02-18 13:41:05 - Test passed for register with invalid email format
+2025-02-18 13:41:06 - Website initialised
+2025-02-18 13:41:07 - Test passed for registration with already registered user
+2025-02-18 13:41:22 - Website initialised
+2025-02-18 13:41:27 - Test passed for search with product
+2025-02-18 13:41:29 - Website initialised
+2025-02-18 13:41:33 - Test passed for search with product
+2025-02-18 13:41:36 - Website initialised
+2025-02-18 13:41:40 - Test passed for search with color filter
+2025-02-18 13:41:42 - Website initialised
+2025-02-18 13:41:49 - Test passed for search with status filter
+2025-02-18 13:41:52 - Website initialised
+2025-02-18 13:41:53 - Test passed for search with wrong keyword
+2025-02-18 13:42:17 - driver initialised
+2025-02-18 13:42:18 - website initialised
+2025-02-18 13:42:20 - Test passed for invalid mobile number by otp
+2025-02-18 13:42:21 - website initialised
+2025-02-18 13:42:22 - Test passed for invalid email format login using otp
+2025-02-18 13:43:32 - driver initialised
+2025-02-18 13:43:33 - website initialised
+2025-02-18 13:43:35 - Test passed for login using invalid email and invalid password 
+2025-02-18 13:43:37 - website initialised
+2025-02-18 13:43:37 - Test passed for invalid email format and valid password 
+2025-02-18 13:43:38 - website initialised
+2025-02-18 13:43:39 - Test passed for empty email and empty password
+2025-02-18 13:43:40 - website initialised
+2025-02-18 13:43:41 - Test passed for login using valid emai and password
+2025-02-18 13:43:42 - website initialised
+2025-02-18 13:43:43 - Test passed for invalid email and valid password
+2025-02-18 13:43:44 - website initialised
+2025-02-18 13:43:45 - Test passed for valid email and valid password
+2025-02-18 15:20:44 - Driver initialised
+2025-02-18 15:20:51 - Website initialised
+2025-02-18 15:21:02 - Test passed for add to cart
+2025-02-18 15:21:05 - Driver initialised
+2025-02-18 15:21:06 - Website initialised
+2025-02-18 15:21:11 - Test failed for cart is emptyUnreachableBrowserException
+2025-02-18 15:21:11 - Screenshot errorUnreachableBrowserException
+2025-02-18 15:21:17 - Website initialised
+2025-02-18 15:21:27 - Test passed for search with product
+2025-02-18 15:21:31 - Website initialised
+2025-02-18 15:21:39 - Test passed for search with product
+2025-02-18 15:21:46 - Website initialised
+2025-02-18 15:21:52 - Test passed for search with color filter
+2025-02-18 15:21:54 - Website initialised
+2025-02-18 15:22:01 - Test passed for search with status filter
+2025-02-18 15:22:02 - Website initialised
+2025-02-18 15:22:04 - Test passed for search with wrong keyword
+2025-02-18 15:22:06 - Driver initialised
+2025-02-18 15:22:08 - website initialised
+2025-02-18 15:22:10 - Test failed for login using invalid email and invalid passwordNoSuchSessionException
+2025-02-18 15:22:10 - screenshot errorNoSuchSessionException
+2025-02-18 15:22:11 - driver initialised
+2025-02-18 15:22:13 - website initialised
+2025-02-18 15:22:14 - Test passed for invalid mobile number by otp
+2025-02-18 15:22:15 - website initialised
+2025-02-18 15:22:16 - Test passed for invalid email format login using otp
+2025-02-18 15:22:18 - Driver initialised
+2025-02-18 15:22:20 - Website initialised
+2025-02-18 15:22:22 - Test passed for register with invalid mobile number
+2025-02-18 15:22:23 - Website initialised
+2025-02-18 15:22:23 - Test passed for register with invalid email format
+2025-02-18 15:22:24 - Website initialised
+2025-02-18 15:22:25 - Test passed for registration with already registered user
+2025-02-18 15:29:54 - driver initialised
+2025-02-18 15:29:56 - website initialised
+2025-02-18 15:29:57 - Test passed for invalid mobile number by otp
+2025-02-18 15:29:59 - website initialised
+2025-02-18 15:30:00 - Test passed for invalid email format login using otp
+2025-02-18 15:30:45 - Driver initialised
+2025-02-18 15:30:47 - website initialised
+2025-02-18 15:30:49 - Test passed for login using invalid email and invalid password 
+2025-02-18 15:30:50 - website initialised
+2025-02-18 15:30:50 - Test passed for invalid email format and valid password 
+2025-02-18 15:30:51 - website initialised
+2025-02-18 15:30:52 - Test passed for empty email and empty password
+2025-02-18 15:30:53 - website initialised
+2025-02-18 15:30:54 - Test passed for login using valid emai and password
+2025-02-18 15:30:55 - website initialised
+2025-02-18 15:30:56 - Test passed for invalid email and valid password
+2025-02-18 15:30:57 - website initialised
+2025-02-18 15:30:58 - Test passed for valid email and valid password
+2025-02-18 15:31:33 - Driver initialised
+2025-02-18 15:31:35 - Website initialised
+2025-02-18 15:31:37 - Test passed for cart is empty
+2025-02-18 15:31:39 - Website initialised
+2025-02-18 15:31:45 - Test passed for cart with remove functionality
+2025-02-18 15:31:47 - Website initialised
+2025-02-18 15:31:54 - Test passed for cart with product
+2025-02-18 15:31:54 - Driver session closed
+2025-02-18 15:32:45 - Driver initialised
+2025-02-18 15:32:47 - Website initialised
+2025-02-18 15:32:54 - Test passed for add to cart
+2025-02-18 15:33:24 - Website initialised
+2025-02-18 15:33:29 - Test passed for search with product
+2025-02-18 15:33:31 - Website initialised
+2025-02-18 15:33:36 - Test passed for search with product
+2025-02-18 15:33:38 - Website initialised
+2025-02-18 15:33:43 - Test passed for search with color filter
+2025-02-18 15:33:45 - Website initialised
+2025-02-18 15:33:52 - Test passed for search with status filter
+2025-02-18 15:33:54 - Website initialised
+2025-02-18 15:33:55 - Test passed for search with wrong keyword
+2025-02-18 15:34:34 - Driver initialised
+2025-02-18 15:34:36 - Website initialised
+2025-02-18 15:34:37 - Test passed for register with invalid mobile number
+2025-02-18 15:34:39 - Website initialised
+2025-02-18 15:34:39 - Test passed for register with invalid email format
+2025-02-18 15:34:40 - Website initialised
+2025-02-18 15:34:41 - Test passed for registration with already registered user
+2025-02-18 15:42:59 - Website initialised
+2025-02-18 15:43:03 - Test passed for search with product
+2025-02-18 15:43:06 - Website initialised
+2025-02-18 15:43:11 - Test passed for search with product
+2025-02-18 15:43:13 - Website initialised
+2025-02-18 15:43:18 - Test passed for search with color filter
+2025-02-18 15:43:20 - Website initialised
+2025-02-18 15:43:27 - Test passed for search with status filter
+2025-02-18 15:43:28 - Website initialised
+2025-02-18 15:43:29 - Test passed for search with wrong keyword
