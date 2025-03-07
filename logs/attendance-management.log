@@ -1,0 +1,18 @@
+2025-01-02T11:14:01,640 [main] INFO : Admin logged in successfully
+2025-01-02T11:17:52,020 [main] INFO : Marked attendance for student ID: 1
+2025-01-02T11:21:05,976 [main] INFO : Admin logged in successfully
+2025-01-02T11:50:24,282 [main] ERROR: Invalid admin login attempt
+2025-01-02T12:07:05,467 [main] ERROR: Invalid admin login attempt
+2025-01-02T12:07:16,759 [main] INFO : Admin logged in successfully
+2025-01-02T12:32:58,969 [main] INFO : Admin logged in successfully
+2025-01-02T12:34:05,514 [main] ERROR: Invalid admin login attempt
+2025-01-02T12:34:20,634 [main] INFO : Marked attendance for student ID: 1
+2025-01-06T08:40:43,662 [main] INFO : Admin logged in successfully
+2025-01-06T08:41:27,961 [main] INFO : Marked attendance for student ID: 1
+2025-01-06T08:41:56,355 [main] INFO : Student 1 logged in successfully.
+2025-01-06T08:42:06,319 [main] INFO : Admin logged in successfully
+2025-01-06T08:42:40,983 [main] ERROR: Error during student login
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "java.util.Map.get(Object)" is null
+	at Attendance.AttendanceService.authenticateStudent(AttendanceService.java:44)
+	at Attendance.Main.studentLogin(Main.java:147)
+	at Attendance.Main.main(Main.java:42)

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+
+        
+
+        <!-- File Appender: Logs to file -->
+        <File name="File" fileName="logs/attendance-management.log" append="true">
+            <PatternLayout>
+                <?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+
+        
+
+        <!-- File Appender: Logs to file -->
+        <File name="File" fileName="logs/attendance-management.log" append="true">
+            <PatternLayout>
+                <Pattern>%d{ISO8601} [%t] %-5level: %msg%n%throwable</Pattern>
+                <?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+
+        
+
+        <!-- File Appender: Logs to file -->
+        <File name="File" fileName="logs/attendance-management.log" append="true">
+            <PatternLayout>
+                <Pattern>%d{ISO8601} [%t] %-5level: %msg%n%throwable</Pattern>
+                <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root Logger: Logs everything at INFO level and above -->
+        <Root level="info">
+            
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>
+
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root Logger: Logs everything at INFO level and above -->
+        <Root level="info">
+            
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>
+
+                <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} [%t] %-5level: %msg%n%throwable"/>
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root Logger: Logs everything at INFO level and above -->
+        <Root level="info">
+            
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>
